@@ -1,0 +1,28 @@
+# compiled output
+/dist
+/tmp
+
+# dependencies
+server/node_modules
+client/node_modules
+
+# misc
+/.angular/cache
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+testem.log
+/typings
+.env
+yarn
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+
+# System Files
+.DS_Store
+.idea
+Thumbs.db
